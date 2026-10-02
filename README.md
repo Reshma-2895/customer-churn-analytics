@@ -521,22 +521,6 @@ Exploratory Analysis · Visualization · Insight Generation · Business Recommen
 
 ---
 
-## Author
-
-### Himanshu Singh Kothariya
-
-**Aspiring Data Analyst | Business Analyst**
-
-I use data to understand business problems, identify customer behavior patterns, and translate analytical findings into actionable business recommendations.
-
-**GitHub:**
-https://github.com/Himanshu6203
-
-**LinkedIn:**
-https://www.linkedin.com/in/himanshu-singh-kothariya-490a1a28b/
-
----
-
 ## Project Focus
 
 **Customer Analytics · Churn Analysis · Customer Segmentation · Retention Strategy · Business Intelligence**
